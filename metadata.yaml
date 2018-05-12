@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1342
     wikipedia: http://en.wikipedia.org/wiki/Octave_Feuillet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22909#La-Novela-de-un-Joven-Pobre
 gutenberg_issued: '2007-10-07'
 gutenberg_type: Text
 identifiers:
